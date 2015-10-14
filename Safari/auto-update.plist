@@ -16,6 +16,8 @@
        <string>0.1.0</string>
        <key>URL</key>
        <string>https://github.com/mrahmiao/BookmarksExtensions/raw/master/Safari/Bookmarks.safariextz</string>
+       <key>Update From Gallery</key>
+       <true/>
      </dict>
    </array>
 </dict>
