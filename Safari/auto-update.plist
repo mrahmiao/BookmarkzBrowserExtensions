@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>Extension Updates</key>
+   <array>
+     <dict>
+       <key>CFBundleIdentifier</key>
+       <string>com.code4blues.mrahmiao.Bookmarks.extensions.Safari</string>
+       <key>Developer Identifier</key>
+       <string>U6Q7347D4Q</string>
+       <key>CFBundleVersion</key>
+       <string>1</string>
+       <key>CFBundleShortVersionString</key>
+       <string>0.1.0</string>
+       <key>URL</key>
+       <string>https://github.com/mrahmiao/BookmarksExtensions/raw/master/Safari/Bookmarks.safariextz</string>
+     </dict>
+   </array>
+</dict>
+</plist>
